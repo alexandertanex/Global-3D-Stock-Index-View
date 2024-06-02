@@ -1,0 +1,2 @@
+In the video demo, the interaction might seems laggy and not that smooth.
+It is recommended to run the code locally and interact with it directly.
